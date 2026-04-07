@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Radnyx!
+I'm currently in the learning stage, being a 1st year computer science student I have quite recently started using/learning github...
+I have some interesting projects in mind which I plan to work upon...
+I'm currently learning TypeScript, CSS and React
+I already have some experience in making projects/games with python, C++, C#, JavaScript, Java and Rust
 
 <!--
 **radnyxx/radnyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
