@@ -10,3 +10,14 @@
 ██║  ██║██║  ██║██████╔╝██║ ╚████║   ██║   ██╔╝ ██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![spaceshooter](assets/SpaceShooter.gif)
+
+</div>
+
+---
