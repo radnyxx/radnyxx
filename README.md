@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![spaceshooter](assets/SpaceShooter.gif)
+![spaceshooter](SpaceShooter.gif)
 
 </div>
 
