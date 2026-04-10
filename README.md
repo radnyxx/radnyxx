@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:ff2d78&height=120&section=header&text=RADNYXX&fontColor=ff2d78&fontSize=40&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=b44fff&size=20&center=true&lines=SYSTEM+ONLINE...;ACCESSING+MAINFRAME...;LO-FI+DEVELOPER+DETECTED;CYBERPUNK+AESTHETICS+LOADED;BUILDING+THE+FUTURE...)](https://git.io/typing-svg)
 
@@ -38,5 +38,5 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=b44fff&style=for-the-badge&label=NEURAL+LINKS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,100:1a0000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" width="100%"/>
 </div>
