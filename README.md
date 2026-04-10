@@ -11,6 +11,15 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 ---
+## ahem?
+<div align='center'>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radnyxx&show_icons=true&theme=tokyonight)
+
+</div>
+
+## visitor counter
+![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=blueviolet)
 
 ## Contribution Graph
 
