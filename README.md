@@ -50,5 +50,5 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=b44fff&style=for-the-badge&label=NEURAL+LINKS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b44fff&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b44fff&height=60&section=footer" width="100%"/>
 </div>
