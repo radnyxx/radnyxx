@@ -3,13 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b44fff&height=120&section=header" width="100%"/>
 
 ```
- █████╗  █████╗ ██████╗ ███╗   ██╗██╗   ██╗██╗  ██╗
- ██╔══██╗██╔══██╗██╔══██╗████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
- ██████╔╝███████║██║  ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
- ██╔══██╗██╔══██║██║  ██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
- ██║  ██║██║  ██║██████╔╝██║ ╚████║   ██║   ██╔╝ ██╗
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+  █████╗  █████╗ ██████╗ ███╗   ██╗██╗   ██╗██╗  ██╗
+  ██╔══██╗██╔══██╗██╔══██╗████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
+  ██████╔╝███████║██║  ██║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
+  ██╔══██╗██╔══██║██║  ██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
+  ██║  ██║██║  ██║██████╔╝██║ ╚████║   ██║   ██╔╝ ██╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
+
 **Computer Science Student**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=React+%2F+Next.js+%2F+TypeScript;C+%2F+Python+%2F+FastAPI;Full-Stack+%2B+AI+Systems" alt="Typing SVG" />
@@ -17,6 +18,7 @@
 </div>
 
 ---
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=b44fff&size=20&center=true&lines=SYSTEM+ONLINE...;ACCESSING+MAINFRAME...;LO-FI+DEVELOPER+DETECTED;BUILDING+THE+FUTURE...)](https://git.io/typing-svg)
 
@@ -43,6 +45,8 @@
 ![spaceshooter](SpaceShooter.gif)
 
 ---
+
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=b44fff&style=for-the-badge&label=NEURAL+LINKS)
 
