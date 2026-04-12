@@ -25,9 +25,9 @@
 ---
 ![](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/LOCATION-THE_GRID-b44fff?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/MOOD-LO--FI_MODE-00fff2?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/MOOD-FIGURING-OUT-BACKEND-00fff2?style=for-the-badge&labelColor=0d0d0d)
 
----
+
 
 ### TECH STACK 
 
