@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b44fff&height=120&section=header" width="100%"/>
 
+<div align='left'>
+
 ```bash
 user@github:~$ whoami
 Radnyx
