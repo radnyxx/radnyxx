@@ -19,10 +19,6 @@ user@github:~$ echo $GOAL
 Solving O(n!) problems in O(n) time
 ```
 
-**Computer Science Student**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=React+%2F+Next.js+%2F+TypeScript;C+%2F+Python+%2F+FastAPI;Full-Stack+%2B+AI+Systems" alt="Typing SVG" />
-
 </div>
 
 
@@ -33,17 +29,6 @@ Solving O(n!) problems in O(n) time
 ---
 ![](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/LOCATION-THE_GRID-b44fff?style=for-the-badge&labelColor=0d0d0d)
-
-
-
-### TECH STACK 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
