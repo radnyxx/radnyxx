@@ -19,8 +19,6 @@ user@github:~$ echo $GOAL
 Solving O(n!) problems in O(n) time
 ```
 
-</div>
-
 
 <div align="center">
 
