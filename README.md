@@ -29,6 +29,9 @@ Solving O(n!) problems in O(n) time
 
 ![spaceshooter](SpaceShooter.gif)
 
+</div>
+
+<img src="https://webpets-flame.vercel.app/generated/fox/white_run_8fps.gif"/>
 
 <div align="center">
 
