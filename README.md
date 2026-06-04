@@ -23,8 +23,6 @@ Solving O(n!) problems in O(n) time
 ![](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/LOCATION-THE_GRID-b44fff?style=for-the-badge&labelColor=0d0d0d)
 
-<img src="https://webpets-flame.vercel.app/generated/fox/white_run_8fps.gif"/>
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=b44fff&style=for-the-badge&label=NEURAL+LINKS)
