@@ -2,17 +2,17 @@
 
 ```bash
 user@github:~$ whoami
-Radnyx
+raja$i // radnyx
 
 user@github:~$ whatis
-Full Stack Developer & Competitive Programmer
+backend // full stack // linux
 
 user@github:~$ cat stack.txt
-> Tech Stack: C++, Java, JavaScript, SQL, React, TypeScript, TailwindCSS
+> Tech Stack: C++, Java, JavaScript, SQL, React, TypeScript, TailwindCSS, HTML, CSS, Golang
 > Tools: AWS, VSCode, Git
 
-user@github:~$ echo $GOAL
-Solving O(n!) problems in O(n) time
+i like being niche <3
+katatonia riffs and the probability amplitude of my kernel's significant overlap with the aroace eigenstate against the world ;-;
 ```
 
 <div align="center">
