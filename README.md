@@ -12,7 +12,8 @@ user@github:~$ cat stack.txt
 > Tools: AWS, VSCode, Git
 
 i like being niche <3
-katatonia riffs and the probability amplitude of my kernel's significant overlap with the aroace eigenstate against the world ;-;
+katatonia riffs and the probability amplitude of the significant overlap of my kernel with the
+aroace eigenstate against the world ;-;
 ```
 
 <div align="center">
