@@ -15,11 +15,6 @@ user@github:~$ echo $GOAL
 Solving O(n!) problems in O(n) time
 ```
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=b44fff&size=20&center=true&lines=SYSTEM+ONLINE...;ACCESSING+MAINFRAME...;I+USE+ARCH+BTW...;BUILDING+THE+FUTURE...)](https://git.io/typing-svg)
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=radnyxx&color=b44fff&style=for-the-badge&label=NEURAL+LINKS)
