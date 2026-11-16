@@ -5,15 +5,12 @@ user@github:~$ whoami
 raja$i // radnyx
 
 user@github:~$ whatis
-backend // full stack // linux
+cybersec // full stack // linux
 
 user@github:~$ cat stack.txt
-> Tech Stack: C++, Java, JavaScript, SQL, React, TypeScript, TailwindCSS, HTML, CSS, Golang
-> Tools: AWS, VSCode, Git
+> Tech Stack: Python, C++, Java, JavaScript, SQL, React, TypeScript, TailwindCSS, HTML, CSS, Golang
+> Tools: AWS, VSCode, Git, Docker
 
-i like being niche <3
-katatonia riffs and the probability amplitude of the significant overlap of my kernel with the
-aroace eigenstate against the world ;-;
 ```
 
 <div align="center">
